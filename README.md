@@ -14,7 +14,7 @@
 
 ---
 
-<text>Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador. Interessado em desenvolvimento de software, banco de dados, segurança da informação e redes. Utilizo este espaço para compartilhar projetos, estudos e experiências que contribuem para minha evolução profissional na área de tecnologia.<text>
+<text>Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador. Interessado em desenvolvimento de software, banco de dados, e segurança da informação. Utilizo este espaço para compartilhar projetos, estudos e experiências que contribuem para minha evolução profissional na área de tecnologia.<text>
 
 <p align="left">
   
