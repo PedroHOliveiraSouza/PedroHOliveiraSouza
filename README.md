@@ -1,38 +1,19 @@
 ##  Pedro Henrique Souza / Salvador - BA
 
-**`Desenvolvedor Back-End`**
+**`Aprofundando em desenvolvimento Back-End`** <p>
+  
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></code></p>
 
-### 👨🏽‍💻 Linguagens
-<div style="display: inline_block"><br>
-    <img 
-        align="center" 
-        alt="Java"
-        title="Java" 
-        height="30px"
-        width="40px" 
-        style="padding-right: 15px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-    />
-    <img 
-        align="center" 
-        alt="Python" 
-        title="Python"
-        height="30px" 
-        width="40px" 
-        style="padding-right: 15px;" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    />
-    <img 
-        align="center" 
-        alt="HTML"
-        title="HTML" 
-        height="30px"
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <br/>
-    <br/>
-</div>
+ **`Front End`** <p>
+ <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></code><p>
+ 
+ 
 
+---
+
+<text>Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador. Interessado em desenvolvimento de software, banco de dados, segurança da informação e redes. Utilizo este espaço para compartilhar projetos, estudos e experiências que contribuem para minha evolução profissional na área de tecnologia.<text>
 
 
