@@ -16,4 +16,7 @@
 
 <text>Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador. Interessado em desenvolvimento de software, banco de dados, segurança da informação e redes. Utilizo este espaço para compartilhar projetos, estudos e experiências que contribuem para minha evolução profissional na área de tecnologia.<text>
 
-
+<p align="left">
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroHOliveiraSouza&layout=compact&langs_count=6&exclude_repo=credit-analysis-AI,service-cancellation-analysis&theme=dark" height="150" alt="languages graph" />
+</p>
