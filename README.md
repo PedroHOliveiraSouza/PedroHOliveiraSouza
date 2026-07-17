@@ -1,4 +1,4 @@
-##  Pedro Henrique Souza / Salvador - BA
+##  Pedro Henrique Souza
 
 **`Aprofundando em desenvolvimento Back-End`** <p>
   
