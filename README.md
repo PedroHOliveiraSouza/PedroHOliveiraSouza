@@ -6,7 +6,6 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
   <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot"/></code>
   <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
 </p>
 
 
